@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Inception",
+    "year": 2010,
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+    "runtime": "148 min",
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0"
+  },
+  {
+    "title": "The Dark Knight",
+    "year": 2008,
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "runtime": "152 min",
+    "genres": ["Action", "Crime", "Drama"],
+    "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY"
+  },
+  {
+    "title": "Interstellar",
+    "year": 2014,
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival. As they venture into the unknown, they confront the limits of human knowledge, the sacrifices they must make, and the boundless nature of space and time.",
+    "runtime": "169 min",
+    "genres": ["Adventure", "Drama", "Sci-Fi"],
+    "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+  },
+  {
+    "title": "The Matrix",
+    "year": 1999,
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "runtime": "136 min",
+    "genres": ["Action", "Sci-Fi"],
+    "trailer": "https://www.youtube.com/watch?v=vKQi3bBA1y8"
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": "1994",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "runtime": "154 min",
+    "genres": ["Crime", "Drama"],
+    "trailer": "https://www.youtube.com/watch?v=s7EdQ4FqbhY"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+    "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "runtime": "178 min",
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "trailer": "https://www.youtube.com/watch?v=V75dMMIW2B4"
+  },
+  {
+    "title": "Gladiator",
+    "year": 2000,
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+    "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "runtime": "155 min",
+    "genres": ["Action", "Adventure", "Drama"],
+    "trailer": "https://www.youtube.com/watch?v=owK1qxDselE"
+  },
+  {
+    "title": "Fight Club",
+    "year": 1999,
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "runtime": "139 min",
+    "genres": ["Drama"],
+    "trailer": "https://www.youtube.com/watch?v=SUXWAEX2jlg"
+  }
+]
