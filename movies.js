@@ -14,7 +14,8 @@ document.addEventListener('DOMContentLoaded', function () {
     // Add more genres and colors as needed
   };
 
-  fetch('/FinalSprint1/movies.json')
+  // Hey Peter, the fetch call below might need to be changed to include the directory, I needed the directory on my home computer but not on my school computer
+  fetch('/movies.json')
     .then(response => response.json())
     .then(movies => {
       const moviesContainer = document.querySelector('.movies-container');
